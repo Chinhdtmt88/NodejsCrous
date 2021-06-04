@@ -1,0 +1,22 @@
+{
+  "name": "nodejscrous",
+  "version": "1.0.0",
+  "description": "NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chinhdtmt88/NodejsCrous.git"
+  },
+  "author": "Chinhdtmt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chinhdtmt88/NodejsCrous/issues"
+  },
+  "homepage": "https://github.com/Chinhdtmt88/NodejsCrous#readme",
+  "dependencies": {
+    "url": "^0.11.0"
+  }
+}
